@@ -5,4 +5,4 @@ A chatbot developed in Python using CustomTkinter Library that interacts with Ch
 chat.py
 
 ## API Key
-Download the OpenAI API key from "https://beta.openai.com/account/api-keys".
+Download the OpenAI API Key from "https://beta.openai.com/account/api-keys".
